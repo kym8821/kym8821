@@ -42,7 +42,7 @@
 
 - **실시간 강우량을 활용한 지역별 침수 예측 서비스**  
   Docker와 Django, React를 활용한 지역별 침수 예측 서비스  
-  [GitHub 링크](https://github.com/code-kookmin/kPaas-be)
+  [GitHub 링크](https://github.com/kym8821/KPaas-be.git)
 
 <br/><br/>
 
