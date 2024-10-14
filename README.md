@@ -1,5 +1,5 @@
 ### 기술스택
-<img src="https://img.shields.io/badge/springboot-E34F26?style=for-the-badge&logo=springboot&logoColor=green"> <img src="https://img.shields.io/badge/java-E34F26?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-E34F26?style=for-the-badge&logo=kotlin&logoColor=purple"> <img src="https://img.shields.io/badge/django-E34F26?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/express-E34F26?style=for-the-badge&logo=express&logoColor=blue">
+<img src="https://img.shields.io/badge/springboot-E34F26?style=for-the-badge&logo=springboot&logoColor=green"> <img src="https://img.shields.io/badge/java-E34F26?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-E34F26?style=for-the-badge&logo=kotlin&logoColor=purple"> <img src="https://img.shields.io/badge/django-E34F26?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/express-E34F26?style=for-the-badge&logo=express&logoColor=blue"> <img src="https://img.shields.io/badge/docker-E34F26?style=for-the-badge&logo=docker&logoColor=white">
 
 ### 최근 수행한 프로젝트
 #### kafka와 springboot를 활용한 자립 준비 청년을 위한 실시간 매칭 시스템
