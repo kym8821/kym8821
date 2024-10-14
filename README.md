@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### 최근 수행한 프로젝트
+#### kafka와 springboot를 활용한 자립 준비 청년을 위한 실시간 매칭 시스템
+#### https://github.com/kym8821/cooing-backend
 <!--
 **kym8821/kym8821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
