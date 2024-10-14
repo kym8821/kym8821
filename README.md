@@ -8,12 +8,16 @@
 </div>
 
 ### 수행한 프로젝트
-#### kafka와 springboot를 활용한 자립 준비 청년을 위한 실시간 매칭 시스템
-#### https://github.com/kym8821/cooing-backend
-#### 백준 api를 활용한 주간 랭킹 시스템
-#### [https://github.com/code-kookmin/comin_be](https://github.com/kym8821/comin-be)
+- **자립 준비 청년을 위한 실시간 매칭 시스템**  
+  Kafka와 Spring Boot를 활용한 프로젝트  
+  [GitHub 링크](https://github.com/kym8821/cooing-backend)
+
+- **주간 랭킹 시스템**  
+  백준 API를 활용한 주간 랭킹 시스템  
+  [GitHub 링크](https://github.com/code-kookmin/comin_be)
 
 ### 노션 공부 링크
-#### [springboot](https://astonishing-mice-7fa.notion.site/Spring-Boot-dc2bd5e06f234ee4af49986855e85723?pvs=74)
-#### [토비 스프링](https://astonishing-mice-7fa.notion.site/2f71d61fe8ee4d1db56ef2790eebec8d?pvs=4)
-#### [대규모 서비스 설계](https://astonishing-mice-7fa.notion.site/6a27903952e641be8f53186620279c91)
+- [Spring Boot](https://astonishing-mice-7fa.notion.site/Spring-Boot-dc2bd5e06f234ee4af49986855e85723?pvs=74)
+- [토비 스프링](https://astonishing-mice-7fa.notion.site/2f71d61fe8ee4d1db56ef2790eebec8d?pvs=4)
+- [대규모 서비스 설계](https://astonishing-mice-7fa.notion.site/6a27903952e641be8f53186620279c91)
+
