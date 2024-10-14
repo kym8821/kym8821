@@ -9,7 +9,9 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/kotlin-7F52B1?style=for-the-badge&logo=kotlin&logoColor=white"> 
   <img src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white"> 
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> 
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/react-2496ED?style=for-the-badge&logo=react&logoColor=white">
 </div>
 
 ### 수행한 프로젝트
