@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kym8821&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kym8821&layout=compact" />
+</div>
+
 <div align=center><h1>📚 STACKS</h1></div>
 <div>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
