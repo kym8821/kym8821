@@ -40,6 +40,10 @@
   백준 API를 활용한 주간 랭킹 시스템  
   [GitHub 링크](https://github.com/code-kookmin/comin_be)
 
+- **실시간 강우량을 활용한 지역별 침수 예측 서비스**  
+  Docker와 Django, React를 활용한 지역별 침수 예측 서비스  
+  [GitHub 링크](https://github.com/code-kookmin/kpaas-be)
+
 <br/><br/>
 
 <div align="center">
