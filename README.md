@@ -5,4 +5,4 @@
 #### kafka와 springboot를 활용한 자립 준비 청년을 위한 실시간 매칭 시스템
 #### https://github.com/kym8821/cooing-backend
 #### 백준 api를 활용한 주간 랭킹 시스템
-#### https://github.com/code-kookmin/comin_be
+#### [https://github.com/code-kookmin/comin_be](https://github.com/kym8821/comin-be)
