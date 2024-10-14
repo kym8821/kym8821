@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&width=100%&section=header&text=kym8821&fontSize=90" />
 <br/><br/><br/>
 
+<div align=center><h1>INTRO</h1></div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kym8821&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kym8821&layout=compact" />
