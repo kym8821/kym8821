@@ -4,11 +4,22 @@
 
 <br/><br/>
 
-<!-- <div align="center">
-  <h1>👋 INTRO</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=kym8821&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kym8821&layout=compact" />  
-</div> -->
+<div align="center">
+  <h1>👋 Backend Developer 김용민입니다</h1>
+</div>
+  
+문제를 단순히 해결하는 것이 아니라, **원인을 구조적으로 분석하고 재발하지 않는 방식으로 개선하는 백엔드 개발자**입니다.
+
+서비스 개발 과정에서 발생하는 성능 문제와 구조적 한계를 해결하는 데 집중해왔습니다. 
+JPA N+1 문제를 분석하고 조회 전략을 재구성하여 **API 응답 속도를 약 40% 개선**했고, 실시간 스트리밍 시스템에서는 I/O 구조와 전송 방식을 개선하여 **FPS 5 → 30, 메모리 사용량 안정화(700MB 수준)** 를 달성했습니다.
+
+또한 Redis, Kafka, WebSocket 기반의 실시간 파이프라인을 설계하며 **DB Write 횟수를 45회 → 1회로 줄이는 구조 개선**을 경험했고, MSA 구조를 직접 적용하며 **아키텍처 선택의 트레이드오프**를 고민해왔습니다
+
+기술은 목적이 아니라 문제 해결을 위한 도구라고 생각합니다. 항상 “왜 이 구조가 필요한가”를 고민하며, **현재 상황에 가장 적합한 설계를 선택하는 개발자**가 되고자 합니다.
+
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=kym8821&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kym8821&layout=compact" />   -->
+</div> 
 
 <br/><br/>
 
