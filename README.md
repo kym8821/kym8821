@@ -232,6 +232,6 @@ JPA N+1 문제를 분석하고 조회 전략을 재구성하여 **API 응답 속
   <h1>📘 STUDY LINKS</h1>
 </div>
 
-- [Spring Boot](https://kym8821.tistory.com/category/Spring)
-- [Docker](https://kym8821.tistory.com/category/Docker)
-- [기본개념](https://kym8821.tistory.com/category/CS%20%EB%B0%8F%20%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90)
+- [Spring Boot 블로그](https://kym8821.tistory.com/category/Spring)
+- [Docker 블로그](https://kym8821.tistory.com/category/Docker)
+- [기본개념 정리 블로그](https://kym8821.tistory.com/category/CS%20%EB%B0%8F%20%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90)
