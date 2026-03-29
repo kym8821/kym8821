@@ -34,6 +34,112 @@
   <h1>🚀 PROJECTS</h1>
 </div>
 
+### 🎨 카카오톡 테마 커스터마이징 서비스  
+> 사용자가 직접 테마를 제작하고 공유할 수 있는 커스터마이징 플랫폼
+
+**📌 개요**
+- 이미지 및 스타일 요소를 조합하여 카카오톡 테마를 생성하고 공유할 수 있는 서비스
+
+**⚙️ 기술 스택**
+- **Backend**: Java, Spring Boot, Spring Data JPA, MySQL, Docker, Redis  
+- **Frontend**: React, TypeScript  
+
+**👨‍💻 주요 기여**
+- 테마 및 게시글 API 설계 및 구현
+- 조회 성능 최적화 (**쿼리 14 → 7, 응답시간 40% 개선**)
+- Docker 멀티 스테이징 적용 (**500MB → 150MB 이미지 최적화**)
+- 안드로이드 환경 테마 생성 및 적용 기능 구현
+
+**🔗 Repository**
+- Frontend: https://github.com/kakao-theme-maker/Web-frontend  
+- Backend: https://github.com/kakao-theme-maker/backend  
+
+---
+
+### 🥁 AI 기반 실시간 드럼 연주 채점 서비스  
+> 실시간 연주 데이터를 분석하여 정확도를 평가하는 AI 기반 음악 서비스
+
+**📌 개요**
+- 사용자 드럼 연주를 실시간 분석하여 박자 및 음 정확도 측정
+- 업로드된 악보를 분석하여 서비스에서 활용 가능한 포맷으로 변환
+
+**⚙️ 기술 스택**
+- **Backend**: Java, Spring Boot, Spring Cloud, JPA, WebSocket(STOMP), MySQL, Docker, Kafka, Redis  
+- **Frontend**: Flutter, Dart  
+
+**👨‍💻 주요 기여**
+- JWT 기반 인증/인가 시스템 구축
+- STOMP 기반 실시간 데이터 처리 파이프라인 설계
+- Spring Cloud 기반 MSA 아키텍처 구축
+- Docker 이미지 최적화 (**2GB → 700MB**)
+
+**🔗 Repository**
+- https://github.com/kookmin-sw/capstone-2025-22  
+
+---
+
+### 🤝 자립 준비 청년을 위한 실시간 매칭 시스템  
+> 멘토-멘티를 실시간으로 연결하고 소통을 지원하는 플랫폼
+
+**📌 개요**
+- 자립 준비 청년을 위한 멘토링 매칭 및 정보 제공 서비스
+
+**⚙️ 기술 스택**
+- **Backend**: Kotlin, Spring Boot, JPA, WebSocket(STOMP), MySQL, Docker  
+- **Frontend**: React, JavaScript  
+
+**👨‍💻 주요 기여**
+- JWT 기반 인증/인가 구현
+- STOMP 기반 실시간 채팅 시스템 구현
+- 채팅방 및 메시지 관리 API 설계 및 개발
+
+**🔗 Repository**
+- Frontend: https://github.com/cooing-kmu/cooing-frontend  
+- Backend: https://github.com/cooing-kmu/cooing-backend  
+
+---
+
+### 🏆 백준 주간 랭킹 서비스  
+> solved.ac 기반 문제 추천 및 사용자 랭킹 서비스
+
+**📌 개요**
+- solved.ac API를 활용한 문제 추천 및 주간 랭킹 제공
+
+**⚙️ 기술 스택**
+- **Backend**: TypeScript, Express, MySQL  
+- **Frontend**: React, TypeScript  
+
+**👨‍💻 주요 기여**
+- 주간 랭킹 시스템 구현
+- 문제 정보 크롤링 기능 개발
+- 사용자 인증 기능 구현
+
+**🔗 Repository**
+- Frontend: https://github.com/code-kookmin/comin_ft  
+- Backend: https://github.com/code-kookmin/comin_be  
+
+---
+
+### 🌧 실시간 강수량 기반 침수 예측 서비스  
+> 실시간 데이터를 활용한 지역별 침수 위험도 분석 시스템
+
+**📌 개요**
+- 강수량 데이터를 기반으로 지역별 침수 위험도를 분석 및 제공
+
+**⚙️ 기술 스택**
+- **Backend**: Django, DRF, Python, MySQL  
+- **Frontend**: React, JavaScript  
+
+**👨‍💻 주요 기여**
+- OpenStreetMap 기반 지도 격자 UI 구현 및 위험도 시각화
+- 외부 강수량 API 연동 및 데이터 수집 파이프라인 구축
+- 침수 위험도 산정 로직 설계 및 API 구현
+
+**🔗 Repository**
+- Frontend: https://github.com/K-PaaS-Competition/kPaas-fe  
+- Backend: https://github.com/K-PaaS-Competition/KPaas-be
+
+<!--
 ### **카카오톡 테마 커스터마이징 서비스**  
 - 개요
   - 사용자가 카카오톡 테마를 직접 생성하고 공유할 수 있는 서비스  
@@ -107,6 +213,7 @@
 - 리포지토리
   - Frontend : https://github.com/K-PaaS-Competition/kPaas-fe
   - Backend : https://github.com/K-PaaS-Competition/KPaas-be
+-->
 
 <br/><br/>
 
