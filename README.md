@@ -4,11 +4,11 @@
 
 <br/><br/>
 
-<div align="center">
+<!-- <div align="center">
   <h1>👋 INTRO</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=kym8821&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kym8821&layout=compact" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kym8821&layout=compact" />  
+</div> -->
 
 <br/><br/>
 
